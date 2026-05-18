@@ -1,6 +1,8 @@
 # Pricing Panel
 
-![Project Preview](file:///C:/Users/khush/OneDrive/Desktop/Pricing%20Panel/screenshot_placeholder.png)
+<p align="center"> 
+  <img src="pricing_panel.png" width="800" alt="Pricing Panel"> 
+</p>
 
 This project is a sleek, mobile-first UI component designed to showcase subscription plans with a clean and professional aesthetic. Built with a focus on performance and usability, it provides a seamless experience across all device sizes.
 
